@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate java and frontend developer</h3>
+<h3 align="center">A java developer</h3>
 
 
 
