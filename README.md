@@ -4,9 +4,11 @@
 
 
 
-- 🔭 I’m currently working on Web library application in Java + SPRING + HTML + CSS [Web library](git@github.com:infoshareacademy/JJDZR11-Konstruktorsi.git)
+- 🔭 I’m currently I am working on a project for task reporting and sending notifications to mobile devices. A JavaFX desktop application sends tasks to a Spring server, which saves them to MySQL and sends push notifications to an Android phone using Firebase. The Android application also displays the list of tasks from the database.
 
-- 🌱 I’m currently learning **KOTLIN**
+- 🔭 My last project was a web library application built using Java, Spring, HTML, and CSS [Web library](git@github.com:infoshareacademy/JJDZR11-Konstruktorsi.git)
+
+- 🌱 I’m currently learning **JavaFX, Firebase, Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KozlowskiKamil](https://github.com/KozlowskiKamil)
 
