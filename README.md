@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently I am working on a project for task reporting and sending notifications to mobile devices. A JavaFX desktop application sends tasks to a Spring server, which saves them to MySQL and sends push notifications to an Android phone using Firebase. The Android application also displays the list of tasks from the database.
 
-- 🔭 My last project was a [Downtime Web service](https://github.com/KozlowskiKamil/downtime) application built using Java, Spring, HTML, CSS, JavaFX and Android Mobile App
+- 🔭 My last project was a [Downtime Web service](https://github.com/KozlowskiKamil/downtime) application built using Java, Spring, HTML, CSS, JavaFX, Firebase and Android Mobile App
 
-- 🌱 I’m currently learning **JavaFX, Firebase, Android**
+- 🌱 I’m currently learning **Microservices, Angular, AJAX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KozlowskiKamil](https://github.com/KozlowskiKamil)
 
