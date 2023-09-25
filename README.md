@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Microservices, Angular, AJAX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KozlowskiKamil](https://github.com/KozlowskiKamil)
+- 👨‍💻 My projects are available at  [Portfolio](https://kozlowskikamil.github.io/)
 
 - 📫 How to reach me **kamil2k8@gmail.com**
 
