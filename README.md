@@ -29,9 +29,8 @@
 <p align="left">
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://powerapps.microsoft.com/" target="_blank"> <img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/power-platform/Microsoft_Power_Platform_Icons_PowerApps.svg" alt="powerapps" width="40" height="40"/> </a>
-<a href="https://flow.microsoft.com/" target="_blank"> <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_PAU_icon?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fit=constrain" alt="powerautomate" width="40" height="40"/> </a>
+<a href="https://flow.microsoft.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/799/395/png-transparent-microsoft-sharepoint-logo.png" alt="powerautomate" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="sqlserver" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/sharepoint/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png" alt="sharepoint" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
