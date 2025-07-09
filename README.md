@@ -1,40 +1,55 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Power Platform Developer | Power BI | Power Apps | Power Automate | SQL</h3>
 
+- 🔭 I’m currently working as a **Power BI / Power Platform Developer**, building solutions for data analysis, process automation, and business reporting.
 
+- 📊 I specialize in creating **interactive Power BI dashboards**, automating workflows with **Power Automate**, and developing business applications with **Power Apps**.
 
-- 🔭 I’m currently I am working on a project for task reporting and sending notifications to mobile devices. A JavaFX desktop application sends tasks to a Spring server, which saves them to MySQL and sends push notifications to an Android phone using Firebase. The Android application also displays the list of tasks from the database.
+- 🧠 I also work with **SQL** to extract, transform and load data from various sources like SharePoint, Excel, SQL Server, and REST APIs.
 
-- 🔭 My last project was a [Downtime Web service](https://github.com/KozlowskiKamil/downtime) application built using Java, Spring, HTML, CSS, JavaFX, Firebase and Android Mobile App
+- 💡 I'm constantly exploring ways to combine **Power Platform** with custom development to deliver end-to-end business solutions.
 
-- 🌱 I’m currently learning **Microservices, Angular, AJAX**
+- 🌱 Currently learning **advanced DAX**, **Power BI architecture**, and integration with **Azure** services.
 
-- 👨‍💻 My projects are available at  [Portfolio](https://kozlowskikamil.github.io/)
+- 💻 Occasionally, I work with **Java and Spring Boot** for backend development when custom APIs or services are needed.
 
-- 📫 How to reach me **kamil2k8@gmail.com**
+- 📫 How to reach me: **kamil2k8@gmail.com**
 
-- ⚡ Fun fact **I like learning programming, it has become my hobby**
+- ⚡ Fun fact: **I love automating things — whether it’s a report, a process or a task!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kozlowski-kamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kozlowski-kamil" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kozlowskikamil&show_icons=true&locale=en&layout=compact" alt="kozlowskikamil" /></p>
+<h3 align="left">Technologies I Use:</h3>
+<p align="left">
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://powerapps.microsoft.com/" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/f/fc/Power_Apps_logo.png](https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/power-platform/Microsoft_Power_Platform_Icons_PowerApps.svg)" alt="powerapps" width="40" height="40"/> </a>
+<a href="https://flow.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Power_Automate_logo.svg" alt="powerautomate" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="sqlserver" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/sharepoint/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png" alt="sharepoint" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kozlowskikamil&show_icons=true&locale=en" alt="kozlowskikamil" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kozlowskikamil&" alt="kozlowskikamil" /></p>
+<h3>📈 GitHub Stats</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kozlowskikamil&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kozlowskikamil" alt="kozlowskikamil" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kozlowskikamil&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kozlowskikamil&" alt="GitHub Streak" /></p>
 
-### ✍️ Random Dev Quote
+---
+
+### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kozlowskikamil&label=Profile%20views&color=0e75b6&style=flat" alt="kozlowskikamil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kozlowskikamil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
